@@ -46,7 +46,7 @@ Because I wanted the raw source tables to be untouched, the solution uses a deco
 [Dashboard]          <-- Interactive UI (KPI Cards, Pivot Charts, Slicers & Timeline)
 
 
-### Advanced Excel Features Used:
+## Advanced Excel Features Used:
 
 * **Data Modeling via Multi-Criteria Lookups:** Integrated multi-key mapping using `SUMIFS` across `Complete Date`, `Account`, `Task Name`, and `Processor` to bridge quality audits with production output.
 * **Dynamic Helper Columns:** Calculated tracking hours, processing speed (units/hr), turnaround days, and standardized training status flags.
