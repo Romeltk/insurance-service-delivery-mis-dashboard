@@ -2,7 +2,7 @@
 
 An end-to-end Executive Management Information System (MIS) Dashboard built in Microsoft Excel to track operational productivity, turnaround times (TAT), quality assurance (QA) compliance, and employee training ramp-up trajectories across insurance business process lines.
 
-![Dashboard Preview](Dashboard screenshot.png)
+![Dashboard Preview](docs/Dashboard_screenshot.png)
 
 ---
 
