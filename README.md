@@ -19,7 +19,7 @@ In high-volume service delivery operations, managing capacity while maintaining 
 
 ---
 
-## 📊 Key Performance Indicators (KPIs) Captured
+## 📊 Key Performance Indicators (KPIs) used
 
 - **Total Volume Processed:** Aggregate completed units (`# Processed`).
 - **Average Turnaround Time (TAT):** Elapsed days from assignment to completion (`Complete Date - Assign Date`).
@@ -34,7 +34,7 @@ In high-volume service delivery operations, managing capacity while maintaining 
 
 ## 🏗️ Architecture & Data Modeling
 
-To keep the raw source tables unchanged, the solution uses a decoupled **three-layer Excel architecture**:
+To keep the raw source tables unchanged, I used a decoupled **three-layer Excel architecture**:
 
 ```text
 [Raw Production Data] + [Raw Quality Data]
@@ -86,7 +86,7 @@ To keep the raw source tables unchanged, the solution uses a decoupled **three-l
    git clone https://github.com/your-username/insurance-service-delivery-mis-dashboard.git
    ```
 
-2. Open `ResourcePro_Service_Delivery_MIS.xlsx` using Microsoft Excel 2019 or later.
+2. Open `insurance_Service_Delivery_MIS.xlsx` using Microsoft Excel 2019 or later.
 
 3. Navigate to the **Dashboard** tab.
 
