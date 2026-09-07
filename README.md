@@ -86,7 +86,7 @@ To keep the raw source tables unchanged, I used a decoupled **three-layer Excel 
    git clone https://github.com/your-username/insurance-service-delivery-mis-dashboard.git
    ```
 
-2. Open `insurance_Service_Delivery_MIS.xlsx` using Microsoft Excel 2019 or later.
+2. Open `Insurance_Service_Delivery_MIS.xlsx` using Microsoft Excel 2019 or later.
 
 3. Navigate to the **Dashboard** tab.
 
